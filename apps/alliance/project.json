@@ -20,7 +20,7 @@
                 "index": "apps/alliance/src/index.html",
                 "baseHref": "/",
                 "polyfills": "apps/alliance/src/polyfills.ts",
-                "styles": ["apps/alliance/src/styles.scss"],
+                "styles": ["apps/alliance/src/styles.css"],
                 "scripts": []
             },
             "configurations": {

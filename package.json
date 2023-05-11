@@ -36,11 +36,11 @@
         "typescript": "~4.8.2"
     },
     "dependencies": {
-        "@domg-wc/common-utilities": "^1.0.0",
-        "@domg-wc/components": "^1.0.0",
-        "@domg-wc/elements": "^1.0.0",
-        "@domg-wc/map": "^1.0.0",
-        "@domg-wc/sections": "^1.0.0",
+        "@domg-wc/common-utilities": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-common-utilities-1.7.0-beta-uig.4.tgz",
+        "@domg-wc/components": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-components-1.7.0-beta-uig.4.tgz",
+        "@domg-wc/elements": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-elements-1.7.0-beta-uig.4.tgz",
+        "@domg-wc/map": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-map-1.7.0-beta-uig.4.tgz",
+        "@domg-wc/sections": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-sections-1.7.0-beta-uig.4.tgz",
         "core-js": "^3.6.5",
         "regenerator-runtime": "0.13.7",
         "tslib": "^2.3.0"
