@@ -37,7 +37,7 @@
     },
     "dependencies": {
         "@domg-wc/common-utilities": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-common-utilities-1.7.0-beta-uig.4.tgz",
-        "@domg-wc/components": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-components-1.7.0-beta-uig.4.tgz",
+        "@domg-wc/webpack-components": "file:/Users/krisspeltincx/Ontwikkeling/OMG/github/uigov-web-components/dist/webpack-libs/components/domg-wc-webpack-components-1.10.3-beta.tgz",
         "@domg-wc/elements": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-elements-1.7.0-beta-uig.4.tgz",
         "@domg-wc/map": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-map-1.7.0-beta-uig.4.tgz",
         "@domg-wc/sections": "https://milieuinfo.github.io/uigov-pages/build-apps/develop-uig/packages/domg-wc-sections-1.7.0-beta-uig.4.tgz",

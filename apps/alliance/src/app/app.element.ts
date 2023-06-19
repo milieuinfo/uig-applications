@@ -1,5 +1,4 @@
-import { vlElementsStyle } from '@domg-wc/elements';
-import { baseStyle, typographyStyle } from '@domg/govflanders-style/common';
+import {vlElementsStyle} from '@domg-wc/elements';
 import appStyle from './app.element.css';
 
 export class AppElement extends HTMLElement {
@@ -8,8 +7,6 @@ export class AppElement extends HTMLElement {
     constructor() {
         super();
         document.adoptedStyleSheets = [
-            typographyStyle.styleSheet,
-            baseStyle.styleSheet,
             ...vlElementsStyle.map((style) => style.styleSheet),
             appStyle.styleSheet,
         ];
@@ -19,10 +16,10 @@ export class AppElement extends HTMLElement {
         this.innerHTML = `
         <div class="wrapper">
             <h1>Alliance App</h1>
-            <alliance-elements></alliance-elements>
+<!--            <alliance-elements></alliance-elements>-->
             <alliance-components></alliance-components>
-            <alliance-sections></alliance-sections>
-            <alliance-map></alliance-map>
+<!--            <alliance-sections></alliance-sections>-->
+<!--            <alliance-map></alliance-map>-->
         </div>
       `;
     }
