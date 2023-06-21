@@ -21,6 +21,8 @@
                 "baseHref": "/",
                 "polyfills": "apps/alliance/src/polyfills.ts",
                 "styles": ["apps/alliance/src/styles.css"],
+                "webpackConfig": "apps/alliance/custom-webpack.config.js",
+                "isolatedConfig": true,
                 "scripts": []
             },
             "configurations": {
